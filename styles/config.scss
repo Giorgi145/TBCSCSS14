@@ -1,0 +1,18 @@
+$myColor: #636060;
+$oftenColor: #fff;
+$four: flex;
+$size: 90%;
+$nothing: none;
+$finished: inline-block;
+%firstFull{
+    margin-bottom: 9px;
+    color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+}
+%secondFull{
+    margin-bottom: 37px;
+    color: #010101;
+    font-size: 28px;
+    font-family: Helvetica;
+}
